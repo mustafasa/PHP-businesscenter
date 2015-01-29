@@ -1,0 +1,56 @@
+[30-Jun-2014 12:00:09 Europe/Berlin] PHP Warning:  include(mysqli.php): failed to open stream: No such file or directory in D:\xampp\htdocs\demo\ajax\authorization.php on line 7
+[30-Jun-2014 12:00:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'mysqli.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\demo\ajax\authorization.php on line 7
+[30-Jun-2014 12:00:09 Europe/Berlin] PHP Notice:  Undefined variable: db_conx in D:\xampp\htdocs\demo\ajax\authorization.php on line 10
+[30-Jun-2014 12:00:09 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\demo\ajax\authorization.php on line 10
+[30-Jun-2014 12:00:09 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\demo\ajax\authorization.php on line 11
+[30-Jun-2014 12:00:09 Europe/Berlin] PHP Notice:  Undefined variable: db_conx in D:\xampp\htdocs\demo\ajax\authorization.php on line 15
+[30-Jun-2014 12:00:09 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\demo\ajax\authorization.php on line 15
+[30-Jun-2014 12:00:09 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\demo\ajax\authorization.php on line 16
+[30-Jun-2014 12:00:44 Europe/Berlin] PHP Warning:  include(mysqli.php): failed to open stream: No such file or directory in D:\xampp\htdocs\demo\ajax\authorization.php on line 7
+[30-Jun-2014 12:00:44 Europe/Berlin] PHP Warning:  include(): Failed opening 'mysqli.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\demo\ajax\authorization.php on line 7
+[30-Jun-2014 12:00:44 Europe/Berlin] PHP Notice:  Undefined variable: db_conx in D:\xampp\htdocs\demo\ajax\authorization.php on line 10
+[30-Jun-2014 12:00:44 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\demo\ajax\authorization.php on line 10
+[30-Jun-2014 12:00:44 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\demo\ajax\authorization.php on line 11
+[30-Jun-2014 12:00:44 Europe/Berlin] PHP Notice:  Undefined variable: db_conx in D:\xampp\htdocs\demo\ajax\authorization.php on line 15
+[30-Jun-2014 12:00:44 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\demo\ajax\authorization.php on line 15
+[30-Jun-2014 12:00:44 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\demo\ajax\authorization.php on line 16
+[01-Jul-2014 16:27:48 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:28:25 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:28:56 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:31:23 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:31:26 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:31:28 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:31:52 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:31:54 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:31:56 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:31:58 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:35:45 Europe/Berlin] PHP Notice:  Undefined variable: db_conx in D:\xampp\htdocs\demo\ajax\authorization.php on line 5
+[01-Jul-2014 16:35:45 Europe/Berlin] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\demo\ajax\authorization.php on line 5
+[01-Jul-2014 16:35:45 Europe/Berlin] PHP Notice:  Undefined variable: db_conx in D:\xampp\htdocs\demo\ajax\authorization.php on line 6
+[01-Jul-2014 16:35:45 Europe/Berlin] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\demo\ajax\authorization.php on line 6
+[01-Jul-2014 16:37:19 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:37:51 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:38:10 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:38:40 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:40:10 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:41:27 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:41:57 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:43:01 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:43:15 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:44:03 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:44:33 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:44:34 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:44:36 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:45:33 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:45:40 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:46:09 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[01-Jul-2014 16:46:48 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[02-Jul-2014 09:31:04 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[02-Jul-2014 09:31:08 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[02-Jul-2014 09:31:16 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[02-Jul-2014 09:31:31 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[02-Jul-2014 09:32:35 Europe/Berlin] PHP Notice:  Undefined index: monthly in D:\xampp\htdocs\demo\ajax\tenant.php on line 26
+[02-Jul-2014 10:00:01 Europe/Berlin] PHP Notice:  Undefined variable: sql in D:\xampp\htdocs\demo\ajax\tenant.php on line 35
+[02-Jul-2014 10:00:01 Europe/Berlin] PHP Warning:  mysqli_query(): Empty query in D:\xampp\htdocs\demo\ajax\tenant.php on line 35
+[02-Jul-2014 10:00:03 Europe/Berlin] PHP Notice:  Undefined variable: sql in D:\xampp\htdocs\demo\ajax\tenant.php on line 35
+[02-Jul-2014 10:00:03 Europe/Berlin] PHP Warning:  mysqli_query(): Empty query in D:\xampp\htdocs\demo\ajax\tenant.php on line 35

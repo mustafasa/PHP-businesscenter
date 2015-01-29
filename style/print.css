@@ -1,0 +1,16 @@
+@media print {
+	
+	body{
+	
+  -webkit-print-color-adjust:exact;
+}
+#header,#menu,.ui-tabs-nav{display:none;}	
+.middle12{ margin-right:180px; 
+}
+.middle12 table{ width:1090px; 
+}
+#table_wrapper{	overflow: visible;}
+	
+#footer{display:none;}
+
+}

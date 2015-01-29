@@ -1,0 +1,10 @@
+@media print {
+#header,#menu,.ui-tabs-nav{display:none;}	
+#ids{ font-size:20px; color:red;}
+.csw{ display:none;}
+#chform{display:none;}
+td{ font-size:20px;}
+#clientd th{ font-size:26px;}
+#clientd table{ width:1000px; text-align: left}
+
+}
